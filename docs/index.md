@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "PPGCC · FACOM · UFMS"
   text: "Produzir conhecimento que transforma realidades."
-  tagline: "Existimos para formar pesquisadores e profissionais que enfrentem problemas complexos — com ciência, inovação e compromisso com o Centro-Oeste e o Brasil."
+  tagline: "Existimos para formar pesquisadores e profissionais que enfrentem problemas complexos com ciência, inovação e compromisso com o Centro-Oeste e o Brasil."
   actions:
     - theme: brand
       text: Sou Discente
