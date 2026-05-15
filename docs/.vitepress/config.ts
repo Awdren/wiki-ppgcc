@@ -33,6 +33,8 @@ export default defineConfig({
             { text: 'Bolsas e Estágio Docência', link: '/discentes/bolsas-e-estagio' },
             { text: 'Requerimentos', link: '/discentes/requerimentos' },
             { text: 'Desligamento', link: '/discentes/desligamento' },
+            { text: 'Qualis Eventos', link: '/discentes/qualis-eventos' },
+            { text: 'Qualis Periódicos', link: '/discentes/qualis-periodicos' },
           ],
         },
       ],
