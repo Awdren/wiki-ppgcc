@@ -1,6 +1,7 @@
 # Catálogo de Disciplinas
 
-> Baseado na **Resolução nº 1.134-COPP/UFMS**, de 10/02/2026 (Estrutura Curricular vigente).
+> Baseado na **Resolução nº 1.134-COPP/UFMS**, de 10/02/2026 (Estrutura Curricular vigente).  
+> Consulte também o [documento oficial da Estrutura Curricular (PDF)](https://www.facom.ufms.br/wp-content/uploads/2026/02/Estrutura-Curricular-PPGCC-ATUAL-2026-RESOLUCAO-COPP-n-1134-de-10-02-2026.pdf).
 
 ---
 

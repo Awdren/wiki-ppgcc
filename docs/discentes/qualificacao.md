@@ -33,7 +33,7 @@ O exame de qualificação pode ocorrer na **modalidade remota síncrona**.
 
 ## Como solicitar
 
-O **orientador** encaminha à Secretaria do Programa, via **SEI**, o formulário de solicitação do Exame de Qualificação, anexando a versão do texto.
+O **orientador** preenche e encaminha à Secretaria do Programa o **formulário de solicitação** do Exame de Qualificação, anexando a versão do texto.
 
 ---
 
@@ -49,6 +49,17 @@ O **orientador** encaminha à Secretaria do Programa, via **SEI**, o formulário
 ::: info Sessão pública
 A apresentação do relatório de qualificação é **pública**. Pode ocorrer em sessão fechada apenas em situações de confidencialidade, sigilo institucional ou interesse devidamente fundamentado.
 :::
+
+---
+
+## Prorrogação do prazo
+
+Excepcionalmente, mediante justificativa fundamentada do orientador e com aprovação do Colegiado de Curso, o prazo para o Exame de Qualificação pode ser prorrogado:
+
+| Nível | Prorrogação máxima |
+|---|---|
+| **Mestrado** | 6 meses |
+| **Doutorado** | 12 meses |
 
 ---
 

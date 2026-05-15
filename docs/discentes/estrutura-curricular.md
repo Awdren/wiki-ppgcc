@@ -106,6 +106,8 @@ As solicitações são analisadas **caso a caso** pelo Colegiado de Curso.
 - Para manutenção de oferta de disciplina optativa: mínimo de **5 estudantes regulares** da UFMS matriculados.
 - A disciplina **Tópicos Especiais** pode ser ofertada esporadicamente sem alterar a estrutura curricular.
 
+A lista de disciplinas ofertadas a cada semestre é publicada na página do Programa em [Calendário Acadêmico e Lista de Disciplinas](https://www.facom.ufms.br/estudantes/horario-e-ensalamento-pos/).
+
 ---
 
 ## Valor dos créditos

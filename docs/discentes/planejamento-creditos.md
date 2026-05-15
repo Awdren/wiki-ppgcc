@@ -207,3 +207,6 @@ Sim — são marcos obrigatórios registrados no histórico escolar com frequên
 
 **Posso cursar mais disciplinas do que o mínimo?**  
 Sim, sem limitação. Cursar disciplinas adicionais pode enriquecer a formação, mas verifique o impacto no cronograma da pesquisa com seu orientador.
+
+**Ingressei como aluno especial antes de ser admitido como regular. Posso convalidar as disciplinas?**  
+Sim. Após o ingresso regular, é possível solicitar a convalidação de disciplinas cursadas como estudante especial, respeitando os limites de créditos previstos para o mestrado e o doutorado (ver tabela em [Admissão e Matrícula](./admissao-matricula#convalidação-de-créditos)).
