@@ -2,11 +2,15 @@
 
 ## Formas de ingresso
 
-O ingresso no PPGCC ocorre exclusivamente por **Processo Seletivo Unificado**, conduzido por Edital da Pró-Reitoria de Pesquisa e Pós-Graduação (Propp). O edital é publicado:
+O ingresso no PPGCC ocorre exclusivamente por **Processo Seletivo Unificado** (PSU), conduzido por Edital da Pró-Reitoria de Pesquisa e Pós-Graduação (Propp). O edital é publicado:
 
-- No **Boletim Oficial da UFMS**
-- Na página da **Propp**
-- Na página do **Programa de Pós-Graduação**
+- No [Boletim Oficial da UFMS](https://boletimoficial.ufms.br/)
+- Na página da [Propp](https://www.propp.ufms.br)
+- Na página do [PPGCC](https://www.facom.ufms.br/ppgcc/)
+
+::: info Datas do Processo Seletivo
+Não há datas fixas — o edital é lançado uma vez ao ano e pode ser acompanhado pelos canais acima. Poderá haver, geralmente em junho, um edital complementar para vagas remanescentes.
+:::
 
 Além do processo seletivo regular, é possível ingressar via:
 
@@ -16,6 +20,14 @@ Além do processo seletivo regular, é possível ingressar via:
 ::: info Candidatos estrangeiros
 A admissão de candidatos estrangeiros sem visto permanente segue as instruções do Edital. Candidatos selecionados via PEC-PG estão dispensados da revalidação do diploma estrangeiro.
 :::
+
+### Candidatos sem diploma
+
+Candidatos ao mestrado que estejam no **último ano/semestre da graduação** e candidatos ao doutorado que ainda cursam o mestrado podem se inscrever normalmente. Se aprovados, deverão apresentar histórico escolar completo, diploma ou documento equivalente **somente no ato da matrícula**.
+
+### Inscrição simultânea em mestrado e doutorado
+
+Cada candidato pode se inscrever em **apenas um curso** (mestrado ou doutorado). Caso efetue inscrições em mais de um curso, somente a **última inscrição** será considerada válida.
 
 ## Mudança de nível
 
@@ -36,9 +48,32 @@ A admissão de candidatos estrangeiros sem visto permanente segue as instruçõe
 - Portadores de diploma de mestrado ou doutorado expedido por universidades estrangeiras
 - Estudantes de graduação que tenham cumprido, no mínimo, **75% da carga horária total** do curso de graduação
 
+### Processo seletivo para estudantes especiais
+
+As inscrições ocorrem geralmente **duas vezes ao ano**, nos meses de **fevereiro e julho**. O edital é publicado no [Boletim Oficial da UFMS](https://boletimoficial.ufms.br/) e na página da [Facom](https://www.facom.ufms.br) (área de notícias). Para se inscrever, é necessário:
+
+1. Ler atentamente o edital — dúvidas podem ser enviadas para **ppg.facom@ufms.br**
+2. Realizar ou atualizar cadastro no [Portal de Pós-Graduação](https://www.posgraduacao.ufms.br)
+3. Preencher a planilha de pontuação de histórico (publicada junto ao edital)
+4. Encaminhar os demais documentos exigidos
+
 ::: warning Matrícula dupla é proibida
 Não é permitida matrícula regular simultânea em mais de um Curso de Pós-Graduação *stricto sensu* da UFMS ou em outra Instituição Pública de Ensino Superior.
 :::
+
+---
+
+## Trilha Graduação-Mestrado
+
+O **Programa Trilha Graduação-Mestrado** seleciona estudantes regulares de alto desempenho dos cursos de graduação da Facom para cursarem, durante o semestre, uma disciplina do mestrado acadêmico.
+
+As inscrições ocorrem geralmente **duas vezes ao ano**, nos meses de **fevereiro e julho**. O edital é publicado no [Boletim Oficial da UFMS](https://boletimoficial.ufms.br/) e na página da [Facom](https://www.facom.ufms.br). A participação exige alto desempenho acadêmico, conforme critérios do [Regulamento da Trilha Graduação-Mestrado](https://boletimoficial.ufms.br/publicacao?id=447428).
+
+Para se inscrever, o candidato deve:
+
+1. Ler atentamente o edital — dúvidas podem ser enviadas para **ppg.facom@ufms.br**
+2. Preencher a planilha de pontuação de currículo (publicada junto ao edital)
+3. Encaminhar os demais documentos exigidos
 
 ## Responsabilidades do estudante ao matricular
 
@@ -53,9 +88,20 @@ A comprovação de documentação falsa ou incompleta, a qualquer tempo, resulta
 
 ## Matrícula semestral e renovação de vínculo
 
-Após integralizar os créditos em disciplinas, o estudante deve **renovar semestralmente a matrícula** no curso pelo Sistema Acadêmico, com anuência do orientador — inclusive quando estiver desenvolvendo atividades em outra IES no país ou no exterior.
+As matrículas para alunos regulares são realizadas **duas vezes ao ano** (a cada semestre), com datas definidas no [Calendário Acadêmico](https://prograd.ufms.br/calendario-academico/). A partir de 2026, as matrículas são realizadas pelo [Siscad](https://siscad.ufms.br/).
+
+Após integralizar os créditos em disciplinas, o estudante deve **renovar semestralmente a matrícula** no curso com anuência do orientador — inclusive quando estiver desenvolvendo atividades em outra IES no país ou no exterior.
 
 O não cumprimento do prazo de renovação de matrícula implica **desistência**, exceto se houver solicitação de trancamento aprovada.
+
+---
+
+## Rede sem fio — Eduroam
+
+Para acessar a rede Eduroam na UFMS, o aluno regular deve:
+
+1. Acessar o [portal.ufms.br](https://portal.ufms.br), selecionar "Ainda não sou cadastrado" e seguir as orientações para gerar o **Passaporte UFMS**
+2. Com o Passaporte criado, seguir as [instruções por sistema operacional](https://agetic.ufms.br/rede-eduroam/) disponibilizadas pela Agetic
 
 ## Trancamento
 

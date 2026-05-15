@@ -1,5 +1,14 @@
 # Defesa de Dissertação ou Tese
 
+## Como solicitar o agendamento
+
+O **orientador** preenche e encaminha à Secretaria do Programa o **formulário de solicitação de defesa**, anexando:
+
+- **Mestrado**: comprovante de artigo **submetido**
+- **Doutorado**: comprovante de artigo **aceito ou publicado**
+
+---
+
 ## Requisitos para agendar a defesa
 
 ### Mestrado — todos os itens abaixo são obrigatórios:
@@ -102,11 +111,32 @@ Não podem integrar:
 
 ---
 
+## Prorrogação do prazo de defesa
+
+Excepcionalmente, mediante justificativa fundamentada do orientador e com aprovação do Colegiado de Curso, o prazo para a defesa pode ser prorrogado:
+
+| Nível | Prorrogação máxima |
+|---|---|
+| **Mestrado** | 6 meses |
+| **Doutorado** | 12 meses |
+
+A prorrogação pode ser solicitada pelo aluno via [Requerimento Acadêmico da Propp](https://propp.ufms.br/requerimento-academico) com **30 dias de antecedência** em relação ao prazo limite.
+
+---
+
 ## Após a defesa: diploma e certificação
 
-1. A Secretaria do Programa envia a ata e documentos ao setor competente em até **30 dias** após a defesa
-2. O diploma é expedido e registrado pela **Secretaria de Certificação Acadêmica da UFMS**
-3. A **Certidão de Conclusão de Curso** só é emitida após o depósito no repositório institucional e entrega dos documentos na Secretaria do Curso
+A Secretaria do Programa inicia e encaminha o processo de registro de diploma para a **Secretaria de Certificação Acadêmica (Secea/Digab/RTR)** logo após a aprovação da versão final do trabalho e a homologação da Ata pelo Colegiado de Curso. O estudante **não precisa fazer a solicitação**.
+
+Os diplomas de mestrado e doutorado são emitidos digitalmente. Mais informações na [página da Propp](https://propp.ufms.br/dict/seres/orientacoes-para-obtencao-do-certificado-digital/).
+
+::: info A Certidão de Conclusão de Curso
+É emitida apenas após o depósito no repositório institucional e entrega dos documentos na Secretaria do Curso.
+:::
+
+::: tip Declaração para fins de incentivo à qualificação (servidores UFMS)
+Após a homologação da Ata pelo Colegiado e enquanto o diploma ainda estiver em processo de expedição, a Secretaria pode emitir **declaração** de que o interessado defendeu sua dissertação/tese em sessão pública, que não há pendências por parte do estudante e que o diploma está em processo de expedição e registro.
+:::
 
 ---
 

@@ -2,6 +2,19 @@
 
 ## Bolsas de estudo
 
+### Agências financiadoras
+
+Há concessão de bolsas de mestrado e doutorado por meio de chamadas públicas das seguintes agências:
+
+- **Capes** — Coordenação de Aperfeiçoamento de Pessoal de Nível Superior
+- **CNPq** — Conselho Nacional de Desenvolvimento Científico e Tecnológico
+- **Fundect** — Fundação de Apoio ao Desenvolvimento do Ensino, Ciência e Tecnologia do Estado de Mato Grosso do Sul
+- Outros órgãos conforme editais específicos
+
+::: info Quando são abertas as inscrições?
+Não há data definida para a concessão de bolsas. Os editais são divulgados na [página do PPGCC](https://www.facom.ufms.br/ppgcc/) e comunicados por e-mail aos estudantes.
+:::
+
 ### Concessão
 
 As bolsas de órgãos de fomento são distribuídas pela **Comissão de Bolsas** (função exercida pelo Colegiado de Curso), conforme critérios definidos em resolução específica do Colegiado, priorizando o **mérito acadêmico** do estudante.

@@ -4,7 +4,7 @@
 
 O Programa de Pós-Graduação em Ciência da Computação (PPGCC) é vinculado à **Faculdade de Computação (FACOM)** da Fundação Universidade Federal de Mato Grosso do Sul (UFMS), em Campo Grande - MS.
 
-Os cursos de **Mestrado** e **Doutorado** são regulamentados pelo Regulamento do Programa (Resolução nº 1.212-COPP/UFMS, de 06/05/2026) e pelo Regulamento Geral dos Cursos de Pós-Graduação *Stricto Sensu* da UFMS (Resolução nº 1.035-COPP/UFMS, de 23/06/2025).
+Os cursos de **Mestrado** e **Doutorado** são regulamentados pelo [Regulamento do Programa (Resolução nº 1.212-COPP/UFMS, de 06/05/2026)](https://www.facom.ufms.br/wp-content/uploads/2026/05/RESOLUCAO-COPP-n-1212-de-06-05-2026.pdf) e pelo [Regulamento Geral dos Cursos de Pós-Graduação *Stricto Sensu* da UFMS (Resolução nº 1.035-COPP/UFMS, de 23/06/2025)](https://www.facom.ufms.br/wp-content/uploads/2025/09/ATUAL-Normas-Gerais-da-Pos-Graduacao-RESOLUCAO-COPP-n-1035-de-23-06-2025.pdf).
 
 ---
 
