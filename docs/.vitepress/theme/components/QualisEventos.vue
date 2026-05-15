@@ -26,6 +26,7 @@
 
     <p class="qualis-count">
       <span v-if="loading">Carregando…</span>
+      <span v-else-if="error" style="color:var(--vp-c-danger-1)">Erro ao carregar os dados. Tente recarregar a página.</span>
       <span v-else>{{ filtered.length }} {{ filtered.length === 1 ? 'evento encontrado' : 'eventos encontrados' }} <span v-if="filtered.length < total">(de {{ total }})</span></span>
     </p>
 
@@ -60,6 +61,7 @@
 
 <script setup lang="ts">
 import { ref, computed, watch, onMounted } from 'vue'
+import { withBase } from 'vitepress'
 
 const PAGE_SIZE = 50
 
@@ -71,6 +73,7 @@ interface Evento {
 
 const data = ref<Evento[]>([])
 const loading = ref(true)
+const error = ref(false)
 const query = ref('')
 const selectedEstrato = ref<string | null>(null)
 const page = ref(1)
@@ -78,9 +81,16 @@ const page = ref(1)
 const estratos = ['A1', 'A2', 'A3', 'A4', 'B1', 'B2', 'B3', 'B4']
 
 onMounted(async () => {
-  const res = await fetch('/data/qualis-eventos.json')
-  data.value = await res.json()
-  loading.value = false
+  try {
+    const res = await fetch(withBase('/data/qualis-eventos.json'))
+    if (!res.ok) throw new Error(`HTTP ${res.status}`)
+    data.value = await res.json()
+  } catch (e) {
+    console.error('[QualisEventos] falha ao carregar dados', e)
+    error.value = true
+  } finally {
+    loading.value = false
+  }
 })
 
 const total = computed(() => data.value.length)
