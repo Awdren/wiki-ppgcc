@@ -203,7 +203,7 @@ Sim. As três áreas (FC, MTC, SC) precisam ser cobertas ao longo do curso. O Es
 Não. Toda solicitação de aproveitamento é analisada **caso a caso** pelo Colegiado via SEI. É necessário comprovar equivalência de conteúdo e que o programa de origem é reconhecido pela Capes.
 
 **As CCNDs sem crédito (Qualificação e Defesa) precisam ser lançadas no sistema?**  
-Sim — são marcos obrigatórios registrados no histórico escolar com frequência e avaliação, mas com carga horária e créditos indicados como "—" na estrutura curricular. Não somam ao total de créditos exigidos.
+Sim, mas não como disciplina: as CCNDs **não exigem matrícula, registro de notas ou frequência**. Registra-se o **início da atividade** e encaminham-se os documentos comprobatórios. A Defesa já é registrada no SISCAD como CCND do trabalho final; a Qualificação ainda está em implementação no sistema (veja [CCNDs no SISCAD](./ccnd-siscad)). Na estrutura curricular, elas aparecem com carga horária e créditos "—" e não somam ao total de créditos exigidos.
 
 **Posso cursar mais disciplinas do que o mínimo?**  
 Sim, sem limitação. Cursar disciplinas adicionais pode enriquecer a formação, mas verifique o impacto no cronograma da pesquisa com seu orientador.

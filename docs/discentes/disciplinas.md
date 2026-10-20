@@ -27,6 +27,10 @@ As CCNDs são obrigatórias conforme o nível e a área de concentração do est
 Cada estudante cursa o **Estudo Dirigido da sua área de concentração**. No mestrado: 1 Estudo Dirigido (4cr). No doutorado: 2 Estudos Dirigidos — o básico e o II (8cr total). A atividade é orientada pelo professor responsável e tem conteúdo definido conforme a linha de pesquisa do estudante.
 :::
 
+::: tip Registro das CCNDs
+CCNDs não exigem matrícula, registro de notas ou frequência: registra-se o **início da atividade** e encaminham-se os **documentos comprobatórios**. Veja como funciona no SISCAD em [CCNDs no SISCAD](./ccnd-siscad).
+:::
+
 ---
 
 ## Disciplinas Optativas — Metodologia e Técnicas da Computação (MTC)

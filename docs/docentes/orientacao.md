@@ -39,6 +39,16 @@ O orientador é responsável por:
 - Pleitear, se necessário, **fontes de financiamento** para execução das atividades
 - Comunicar à Coordenação eventual **abandono de curso** pelo estudante
 
+### No SISCAD: CCND do trabalho final
+
+Na CCND **Elaboração e Defesa de Dissertação, Tese ou TFC**, o orientador:
+
+1. **Valida** (aprova ou recusa) a CCND iniciada pelo estudante
+2. **Cadastra a banca** de defesa no período de agendamento
+3. **Avalia a finalização** enviada após a defesa: aprova ou solicita alterações
+
+Tudo é feito pelo menu **Lista de CCNDs – Pós-Graduação**. Veja o passo a passo em [CCNDs no SISCAD](../discentes/ccnd-siscad).
+
 ---
 
 ## Mudança de orientador

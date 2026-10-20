@@ -12,6 +12,7 @@ Bem-vindo à seção dedicada aos estudantes do PPGCC. Aqui você encontra as pr
 | [Proficiência em Inglês](./proficiencia) | Obrigatoriedade e prazos por nível |
 | [Exame de Qualificação](./qualificacao) | Pré-requisitos, prazos, composição de banca |
 | [Defesa de Dissertação ou Tese](./defesa) | Formatos aceitos, requisitos, banca, procedimentos |
+| [CCNDs no SISCAD](./ccnd-siscad) | Registro da CCND do trabalho final, passo a passo e fluxos |
 | [Bolsas e Estágio Docência](./bolsas-e-estagio) | Concessão de bolsas, obrigações do bolsista |
 | [Requerimentos](./requerimentos) | O que você pode solicitar formalmente |
 | [Desligamento](./desligamento) | Causas de desligamento e possibilidade de reingresso |
