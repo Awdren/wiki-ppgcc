@@ -1,5 +1,7 @@
 # Estrutura Curricular
 
+> Baseado no Regulamento do Programa (**Res. nº 1.212-COPP/2026**, arts. 22 a 27) e na Estrutura Curricular vigente desde 1º/01/2026 (**Res. nº 1.295-COPP/2026**).
+
 ## Visão geral
 
 A estrutura curricular dos cursos é dividida em dois grandes grupos:
@@ -15,9 +17,13 @@ Todas as disciplinas optativas se organizam em três áreas, conforme o Document
 
 | Sigla | Área |
 |---|---|
-| **FC** | Fundamentos de Computação |
-| **MTC** | Metodologia e Técnica de Computação |
+| **FC** | Fundamentos da Computação |
+| **MTC** | Métodos e Técnicas da Computação |
 | **SC** | Sistemas Computacionais |
+
+::: details Sobre os nomes das áreas
+A Res. nº 1.212/2026 (art. 22, § 1º) usa "Fundamentos de Computação" e "Metodologia e Técnica de Computação". A Estrutura Curricular (Res. nº 1.295/2026) usa "Fundamentos da Computação" e "Métodos e Técnicas da Computação". As siglas são as mesmas; esta wiki adota os nomes da Estrutura Curricular.
+:::
 
 ::: info Cobertura das três áreas
 O estudante deve comprovar conhecimento nas **três áreas de formação**. Isso pode ser feito por aprovação em disciplinas do programa ou por mecanismos alternativos (ver seção abaixo).
@@ -58,20 +64,24 @@ O estudante deve comprovar conhecimento nas **três áreas de formação**. Isso
 
 ## Estudos Dirigidos (CCNDs de crédito)
 
-Os Estudos Dirigidos são as CCNDs com créditos que compõem as chamadas Atividades Orientadas de Ensino. Cada estudante cursa o(s) Estudo(s) Dirigido(s) **da sua própria área de concentração**:
+As Atividades Orientadas de Ensino são cumpridas na forma de **Estudo Dirigido** nas áreas de formação (art. 22, § 3º, da Res. nº 1.212/2026). Os créditos exigidos são cursados "dependendo da área de formação" (arts. 23 e 24):
 
 | Situação | CCND cursada | Créditos |
 |---|---|---|
 | Mestrado | Estudo Dirigido em \<Área\> | 4 |
 | Doutorado | Estudo Dirigido em \<Área\> + Estudo Dirigido em \<Área\> II | 8 |
 
-> Exemplo: um doutorando com concentração em SC cursa "Estudo Dirigido em Sistemas Computacionais" (4cr) + "Estudo Dirigido em Sistemas Computacionais II" (4cr) = 8cr.
+> Exemplo: um doutorando cujos Estudos Dirigidos são em SC cursa "Estudo Dirigido em Sistemas Computacionais" (4cr) + "Estudo Dirigido em Sistemas Computacionais II" (4cr) = 8cr. Na estrutura, as versões "II" são só de doutorado.
+
+::: warning Escolha da área do Estudo Dirigido
+O Regulamento **não detalha** como a área do Estudo Dirigido é definida (por exemplo, se segue a linha de pesquisa do estudante). Confirme com seu orientador e com a Coordenação antes da matrícula.
+:::
 
 ---
 
 ## Estágio docência
 
-O estágio é **obrigatório para estudantes bolsistas** e compreende atividades relativas a encargos acadêmicos ou compatíveis com a área de pesquisa do estudante, sob supervisão do orientador.
+O estágio é **obrigatório para estudantes bolsistas** e compreende atividades relativas a encargos acadêmicos ou compatíveis com a área de pesquisa do estudante, sob supervisão do orientador (art. 22, § 4º, da Res. nº 1.212/2026). No mestrado, o bolsista cursa **Estágio I** (2cr); no doutorado, **Estágio I e Estágio II** (2cr cada).
 
 Ver detalhes em [Bolsas e Estágio Docência](./bolsas-e-estagio).
 
@@ -103,7 +113,8 @@ As solicitações são analisadas **caso a caso** pelo Colegiado de Curso.
 
 - As disciplinas são ofertadas em **períodos regulares** (1º e 2º semestres) e podem ocorrer também em **períodos de verão e inverno**.
 - Conforme disponibilidade docente e demanda, disciplinas podem ser oferecidas em **formato condensado, período noturno ou aos sábados**.
-- Para manutenção de oferta de disciplina optativa: mínimo de **5 estudantes regulares** da UFMS matriculados.
+- Para manutenção de oferta de disciplina optativa: mínimo de **5 estudantes regulares** da UFMS matriculados, salvo aprovação de exceção pelas instâncias previstas no art. 58, § 5º, da Res. nº 1.035/2025.
+- Estudantes regulares de outros cursos *stricto sensu* da UFMS podem cursar as disciplinas do Programa (art. 33 da Res. nº 1.212/2026); e estudantes do PPGCC podem pedir matrícula em disciplinas de outros cursos *stricto sensu* da UFMS, com anuência do orientador e havendo vaga (art. 32 da Res. nº 1.035/2025).
 - A disciplina **Tópicos Especiais** pode ser ofertada esporadicamente sem alterar a estrutura curricular.
 
 A lista de disciplinas ofertadas a cada semestre é publicada na página do Programa em [Calendário Acadêmico e Lista de Disciplinas](https://www.facom.ufms.br/estudantes/horario-e-ensalamento-pos/).

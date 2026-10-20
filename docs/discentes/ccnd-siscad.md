@@ -13,8 +13,10 @@ Os **Componentes Curriculares Não Disciplinares (CCNDs)** são atividades da p�
 5. Atividades Orientadas de Ensino
 6. Estágio
 
+No **PPGCC**, a estrutura curricular adota quatro dessas formas: **Atividades Orientadas de Ensino** (Estudos Dirigidos), **Exame de Qualificação**, **Elaboração e Defesa de Dissertação ou Tese** e **Estágio** (art. 22, § 2º, da Res. nº 1.212/2026).
+
 ::: info Sem matrícula, nota ou frequência
-As CCNDs **não exigem matrícula, registro de notas ou frequência**. É necessário apenas **registrar o início** da atividade e **encaminhar os documentos comprobatórios** pertinentes a cada CCND.
+Segundo a orientação da PROPP, as CCNDs **não exigem matrícula, registro de notas ou frequência**. É necessário apenas **registrar o início** da atividade e **encaminhar os documentos comprobatórios** pertinentes a cada CCND. Para o Estágio de Docência, a Res. nº 1.035/2025 prevê requerimento de matrícula com plano de trabalho e registro no histórico (art. 83, §§ 4º e 9º).
 :::
 
 ## Situação no SISCAD

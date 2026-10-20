@@ -9,7 +9,7 @@ Será desligado do curso o estudante que:
 | Deixar de renovar a matrícula e não apresentar justificativa ao Colegiado em até **30 dias** após a data de matrícula | Res. 1.212/2026, Art. 36 |
 | Ultrapassar o **prazo máximo** para conclusão do curso sem solicitar prorrogação em tempo hábil | Res. 1.212/2026, Art. 36 |
 | Não cumprir atividades ou exigências nos prazos estabelecidos | Res. 1.212/2026, Art. 36 |
-| Obter conceito **"D"** em **duas disciplinas obrigatórias** | Res. 1.035/2025, Art. 63 |
+| Obter conceito **"D"** em **duas disciplinas obrigatórias** (regra aplicada ao PPGCC, segundo a Coordenação; veja [Prazos e Desempenho](./prazos-e-desempenho#escala-de-conceitos)) | Res. 1.035/2025, Art. 63 |
 | Reprovar **por duas vezes** no Exame de Qualificação | Res. 1.035/2025, Art. 63 |
 | Reprovar na **defesa** da Dissertação ou Tese | Res. 1.035/2025, Art. 63 |
 | Não realizar o Exame de Qualificação ou a defesa **no prazo determinado** | Res. 1.035/2025, Art. 63 |
@@ -17,6 +17,14 @@ Será desligado do curso o estudante que:
 | Comprovada ocorrência de **má conduta científica** (via Processo Administrativo Disciplinar — PADE) | Res. 1.035/2025, Art. 63 |
 | Desistência, abandono, transferência compulsória, mudança de nível sem titulação ou falecimento | Res. 1.035/2025, Art. 63 |
 | Casos previstos no **Regulamento Disciplinar do Estudante** da UFMS | Res. 1.035/2025, Art. 63 |
+
+::: warning Prorrogação exige qualificação aprovada
+Para evitar o desligamento por prazo excedido, o requerimento de prorrogação deve ser apresentado com **30 dias de antecedência**, com anuência do orientador — e só é possível para quem **já foi aprovado no Exame de Qualificação** (art. 38 da Res. nº 1.212/2026). Veja [Prazos e Desempenho](./prazos-e-desempenho).
+:::
+
+::: info Desistência e cancelamento
+Também é considerado **desistente** quem não efetua matrícula nos prazos do Calendário Acadêmico (art. 37 da Res. nº 1.035/2025). O cancelamento geral de matrícula equivale à desistência, com vigência a partir da data da solicitação (art. 43).
+:::
 
 ::: info Comunicação formal
 O desligamento deve ser comunicado formalmente ao **estudante e ao orientador**, com justificativa, pelo e-mail institucional do Programa.
@@ -30,7 +38,7 @@ Quando o estudante for bolsista, o Coordenador de Curso informa o motivo do desl
 
 ## Reingresso após desligamento
 
-Um estudante desligado por **prazo de integralização excedido** pode solicitar reingresso **uma única vez**, exclusivamente para realizar a defesa, desde que:
+Um estudante desligado por **prazo de integralização excedido** pode solicitar reingresso **uma única vez**, exclusivamente para realizar a defesa (art. 38 da Res. nº 1.035/2025), desde que:
 
 1. Tenha concluído **todos os créditos** requeridos para defesa
 2. Tenha sido aprovado nas demais exigências do curso

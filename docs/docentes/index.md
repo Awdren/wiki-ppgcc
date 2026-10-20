@@ -33,5 +33,5 @@ O número de professores colaboradores **não pode exceder 30%** do total de pro
 - Participar ativamente de **ações e eventos** institucionais de ensino, pesquisa, extensão e internacionalização
 
 ::: tip Fonte normativa
-Todo conteúdo é baseado na **Resolução nº 1.212-COPP/UFMS (06/05/2026)** e na **Resolução nº 1.035-COPP/UFMS (23/06/2025)**.
+O conteúdo é baseado nas resoluções listadas em [Base Normativa](../base-normativa). Esta wiki é um material de apoio e **não substitui** os documentos oficiais.
 :::
