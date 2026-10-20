@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1170" height="290" viewBox="0 0 1170 290" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">Etapas da CCND Elaboração e Defesa de Dissertação, Tese ou TFC no SISCAD</title>
+  <desc id="d">Sete etapas: 1 estudante inicia a CCND; 2 orientador valida; 3 coordenador dá ciência; 4 orientador cadastra a banca; 5 estudante envia a finalização; 6 orientador avalia; 7 coordenador faz a avaliação final e a CCND é arquivada.</desc>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#455a64"/></marker>
+  </defs>
+  <rect width="1170" height="290" rx="12" fill="#ffffff"/>
+  <text x="20" y="34" font-size="18" font-weight="700" fill="#263238">CCND Elaboração e Defesa de Dissertação, Tese ou TFC — etapas no SISCAD</text>
+
+  <!-- fases -->
+  <g font-size="13" font-weight="600" fill="#546e7a" text-anchor="middle">
+    <text x="257" y="62">Ao iniciar a elaboração do trabalho</text>
+    <text x="585" y="62">Agendamento da defesa</text>
+    <text x="913" y="62">Após a defesa</text>
+  </g>
+  <g stroke="#b0bec5" stroke-width="2" fill="none">
+    <path d="M20,76 V70 H494 V76"/>
+    <path d="M512,76 V70 H658 V76"/>
+    <path d="M676,76 V70 H1150 V76"/>
+  </g>
+
+  <!-- cartões -->
+  <g font-size="13" text-anchor="middle">
+    <!-- 1 estudante -->
+    <rect x="20" y="86" width="146" height="140" rx="10" fill="#eaf3fa" stroke="#1a73a8" stroke-width="1.5"/>
+    <path d="M20,96 a10,10 0 0 1 10,-10 h126 a10,10 0 0 1 10,10 v18 h-146 z" fill="#1a73a8"/>
+    <text x="93" y="105" fill="#fff" font-size="12" font-weight="700">1 · ESTUDANTE</text>
+    <text x="93" y="146" font-weight="700" fill="#263238">Iniciar CCND</text>
+    <text x="93" y="170" fill="#37474f">assim que começar</text>
+    <text x="93" y="188" fill="#37474f">a elaborar o trabalho</text>
+
+    <!-- 2 orientador -->
+    <rect x="184" y="86" width="146" height="140" rx="10" fill="#eaf5ee" stroke="#2e7d4f" stroke-width="1.5"/>
+    <path d="M184,96 a10,10 0 0 1 10,-10 h126 a10,10 0 0 1 10,10 v18 h-146 z" fill="#2e7d4f"/>
+    <text x="257" y="105" fill="#fff" font-size="12" font-weight="700">2 · ORIENTADOR</text>
+    <text x="257" y="146" font-weight="700" fill="#263238">Validar CCND</text>
+    <text x="257" y="170" fill="#37474f">aprova ou recusa</text>
+    <text x="257" y="188" fill="#37474f">a solicitação</text>
+
+    <!-- 3 coordenador -->
+    <rect x="348" y="86" width="146" height="140" rx="10" fill="#fbf1e3" stroke="#b26a00" stroke-width="1.5"/>
+    <path d="M348,96 a10,10 0 0 1 10,-10 h126 a10,10 0 0 1 10,10 v18 h-146 z" fill="#b26a00"/>
+    <text x="421" y="105" fill="#fff" font-size="12" font-weight="700">3 · COORDENADOR</text>
+    <text x="421" y="146" font-weight="700" fill="#263238">Dar ciência</text>
+    <text x="421" y="170" fill="#37474f">a CCND passa a</text>
+    <text x="421" y="188" fill="#37474f" font-weight="600">Em andamento</text>
+
+    <!-- 4 orientador -->
+    <rect x="512" y="86" width="146" height="140" rx="10" fill="#eaf5ee" stroke="#2e7d4f" stroke-width="1.5"/>
+    <path d="M512,96 a10,10 0 0 1 10,-10 h126 a10,10 0 0 1 10,10 v18 h-146 z" fill="#2e7d4f"/>
+    <text x="585" y="105" fill="#fff" font-size="12" font-weight="700">4 · ORIENTADOR</text>
+    <text x="585" y="146" font-weight="700" fill="#263238">Cadastrar banca</text>
+    <text x="585" y="170" fill="#37474f">libera o envio</text>
+    <text x="585" y="188" fill="#37474f">da finalização</text>
+
+    <!-- 5 estudante -->
+    <rect x="676" y="86" width="146" height="140" rx="10" fill="#eaf3fa" stroke="#1a73a8" stroke-width="1.5"/>
+    <path d="M676,96 a10,10 0 0 1 10,-10 h126 a10,10 0 0 1 10,10 v18 h-146 z" fill="#1a73a8"/>
+    <text x="749" y="105" fill="#fff" font-size="12" font-weight="700">5 · ESTUDANTE</text>
+    <text x="749" y="146" font-weight="700" fill="#263238">Enviar finalização</text>
+    <text x="749" y="170" fill="#37474f">anexa o trabalho</text>
+    <text x="749" y="188" fill="#37474f">final (PDF)</text>
+
+    <!-- 6 orientador -->
+    <rect x="840" y="86" width="146" height="140" rx="10" fill="#eaf5ee" stroke="#2e7d4f" stroke-width="1.5"/>
+    <path d="M840,96 a10,10 0 0 1 10,-10 h126 a10,10 0 0 1 10,10 v18 h-146 z" fill="#2e7d4f"/>
+    <text x="913" y="105" fill="#fff" font-size="12" font-weight="700">6 · ORIENTADOR</text>
+    <text x="913" y="146" font-weight="700" fill="#263238">Avaliar finalização</text>
+    <text x="913" y="170" fill="#37474f">aprova ou solicita</text>
+    <text x="913" y="188" fill="#37474f">alterações</text>
+
+    <!-- 7 coordenador -->
+    <rect x="1004" y="86" width="146" height="140" rx="10" fill="#fbf1e3" stroke="#b26a00" stroke-width="1.5"/>
+    <path d="M1004,96 a10,10 0 0 1 10,-10 h126 a10,10 0 0 1 10,10 v18 h-146 z" fill="#b26a00"/>
+    <text x="1077" y="105" fill="#fff" font-size="12" font-weight="700">7 · COORDENADOR</text>
+    <text x="1077" y="146" font-weight="700" fill="#263238">Avaliação final</text>
+    <text x="1077" y="170" fill="#37474f">aprova e a CCND</text>
+    <text x="1077" y="188" fill="#37474f">fica <tspan font-weight="600">Arquivada</tspan></text>
+  </g>
+
+  <!-- setas entre cartões -->
+  <g stroke="#455a64" stroke-width="2" marker-end="url(#a)">
+    <line x1="167" y1="156" x2="182" y2="156"/>
+    <line x1="331" y1="156" x2="346" y2="156"/>
+    <line x1="495" y1="156" x2="510" y2="156"/>
+    <line x1="659" y1="156" x2="674" y2="156"/>
+    <line x1="823" y1="156" x2="838" y2="156"/>
+    <line x1="987" y1="156" x2="1002" y2="156"/>
+  </g>
+
+  <text x="20" y="262" font-size="12.5" fill="#546e7a">Estudante: menu <tspan font-weight="600">Lista de CCNDs</tspan> · Orientador e coordenador: menu <tspan font-weight="600">Lista de CCNDs – Pós-Graduação</tspan> · Todas as etapas são feitas no SISCAD.</text>
+</svg>

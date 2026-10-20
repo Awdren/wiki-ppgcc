@@ -65,6 +65,7 @@ O Coordenador tem papel executivo e de representação do Programa:
 - **Representar** o Programa em todas as instâncias
 - Prestar contas da utilização dos **recursos financeiros** concedidos ao Curso
 - Acompanhar a execução dos **projetos de fomento** e apoio direcionados ao Programa
+- No SISCAD, **dar ciência** às CCNDs de trabalho final aprovadas pelos orientadores e fazer a **avaliação final** da versão entregue, arquivando a CCND (ver [CCNDs no SISCAD](../discentes/ccnd-siscad))
 
 ---
 

@@ -70,6 +70,10 @@ A composição das bancas deve prezar pelo compromisso com a **promoção da equ
 
 A solicitação de constituição da Banca Examinadora é feita pelo **orientador** via requerimento ao Colegiado de Curso. Em casos excepcionais (defesa de tese), pode ser requerida pelo Coorientador ou pelo Coordenador de Curso.
 
+::: tip Cadastro da banca de defesa no SISCAD
+No período de agendamento da defesa, o orientador também **cadastra a banca na CCND do trabalho final** do estudante no SISCAD (**Lista de CCNDs – Pós-Graduação → Cadastrar banca → Novo Docente**). Para cada membro, informe se é docente da UFMS ou externo e se atua como **presidente**, **suplente** ou **coorientador**. O envio da versão final pelo estudante só é liberado depois desse cadastro. Veja [CCNDs no SISCAD](../discentes/ccnd-siscad#orientador-cadastrar-a-banca).
+:::
+
 ---
 
 ## Resultados possíveis (defesa)

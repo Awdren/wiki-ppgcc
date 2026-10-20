@@ -9,6 +9,20 @@ O **orientador** preenche e encaminha à Secretaria do Programa o **formulário 
 
 ---
 
+## Registro no SISCAD (CCND do trabalho final)
+
+A elaboração e defesa da dissertação ou tese é uma **CCND** registrada no SISCAD, do início da escrita até o envio da versão final:
+
+![Etapas da CCND do trabalho final no SISCAD](./imagens/ccnd/ccnd-tfc-etapas.svg)
+
+- **Ao começar a escrever:** o estudante inicia a CCND, o orientador valida e o coordenador dá ciência.
+- **No agendamento da defesa:** o orientador cadastra a banca de defesa na CCND.
+- **Após a defesa:** o estudante anexa o trabalho final, o orientador aprova (ou pede alterações) e o coordenador faz a avaliação final, arquivando a CCND.
+
+O passo a passo de cada papel está em [CCNDs no SISCAD](./ccnd-siscad).
+
+---
+
 ## Requisitos para agendar a defesa
 
 ### Mestrado — todos os itens abaixo são obrigatórios:
@@ -108,6 +122,10 @@ Não podem integrar:
 | **Aprovação** | Homologação condicionada ao depósito da versão definitiva em **30 dias** |
 | **Aprovação com revisão** | Depósito da versão revisada (com aprovação do orientador) em até **30 dias** |
 | **Reprovação** | Gera desligamento do curso |
+
+::: tip Envio da versão final
+Após a defesa, o trabalho final é anexado na **CCND do trabalho final no SISCAD** (envio da finalização), avaliado pelo orientador e, por último, pelo coordenador. Veja [CCNDs no SISCAD](./ccnd-siscad#fase-2-—-finalizacao-revisoes-e-arquivamento).
+:::
 
 ---
 

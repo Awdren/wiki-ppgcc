@@ -35,6 +35,10 @@ O exame de qualificação pode ocorrer na **modalidade remota síncrona**.
 
 O **orientador** preenche e encaminha à Secretaria do Programa o **formulário de solicitação** do Exame de Qualificação, anexando a versão do texto.
 
+::: info Qualificação como CCND
+O Exame de Qualificação é uma CCND que **ainda não está disponível no SISCAD**. Até lá, a documentação comprobatória é encaminhada ao Programa e fica arquivada pelo PPG e pelo estudante para registro posterior. Veja [CCNDs no SISCAD](./ccnd-siscad).
+:::
+
 ---
 
 ## Composição da Banca
