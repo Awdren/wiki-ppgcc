@@ -4,6 +4,10 @@
 
 Use a busca abaixo para localizar um periódico pelo **ISSN** ou pelo **título**, e filtre pelo estrato desejado.
 
+::: info Qualis e o requisito de defesa
+O artigo exigido para a defesa deve estar em veículo **qualificado na área de Ciência da Computação** (arts. 46, § 5º, IV, e 47, § 4º, IV, da Res. nº 1.212/2026). O Colegiado ainda vai detalhar os critérios em resolução específica; até lá, vale o Regulamento. Veja [Defesa](./defesa#requisitos-para-agendar-a-defesa).
+:::
+
 <QualisPeriodicos />
 
 ---

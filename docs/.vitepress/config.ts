@@ -14,6 +14,7 @@ export default defineConfig({
       { text: 'Discentes', link: '/discentes/' },
       { text: 'Docentes', link: '/docentes/' },
       { text: 'O Programa', link: '/programa/identidade' },
+      { text: 'Base Normativa', link: '/base-normativa' },
     ],
 
     sidebar: {
@@ -65,6 +66,7 @@ export default defineConfig({
           items: [
             { text: 'Objetivos e Perfil do Egresso', link: '/programa/' },
             { text: 'Colegiado e Coordenação', link: '/programa/colegiado' },
+            { text: 'Base Normativa', link: '/base-normativa' },
           ],
         },
       ],
@@ -76,7 +78,7 @@ export default defineConfig({
 
     footer: {
       message:
-        'Baseado na Res. nº 1.212-COPP/UFMS (06/05/2026) e Res. nº 1.035-COPP/UFMS (23/06/2025).',
+        'Baseado nas Res. nº 1.035/2025, 1.212/2026 e 1.295/2026-COPP/UFMS e na Res. nº 258/2022-FACOM. Material de apoio; não substitui os documentos oficiais.',
       copyright: 'PPGCC — Faculdade de Computação — UFMS',
     },
 

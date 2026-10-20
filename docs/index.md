@@ -45,10 +45,13 @@ features:
 
 ---
 
-> **Fontes normativas exclusivas desta wiki**
+> **Fontes desta wiki**
 >
-> Todo o conteúdo regulatório é baseado exclusivamente nos documentos abaixo, sem acréscimo de informações externas:
-> - **Resolução nº 1.212-COPP/UFMS, de 6 de maio de 2026** — Regulamento do PPGCC/FACOM
+> As regras acadêmicas são baseadas nos documentos abaixo. Informações práticas vindas de editais, sistemas e orientações da Propp aparecem sinalizadas no texto.
 > - **Resolução nº 1.035-COPP/UFMS, de 23 de junho de 2025** — Regulamento Geral dos Cursos de Pós-Graduação *Stricto Sensu* da UFMS
-> - **Resolução nº 1.134-COPP/UFMS, de 10 de fevereiro de 2026** — Estrutura Curricular dos Cursos de Mestrado e Doutorado
+> - **Resolução nº 1.212-COPP/UFMS, de 6 de maio de 2026** — Regulamento do PPGCC/FACOM
+> - **Resolução nº 1.295-COPP/UFMS, de 17 de julho de 2026** — Estrutura Curricular e ementas dos Cursos de Mestrado e Doutorado (a contar de 1º/01/2026)
+> - **Resolução nº 258-CPOS/CCO/FACOM, de 9 de fevereiro de 2022** — Trilha Graduação-Mestrado
 > - **Planejamento Estratégico PPGCC 2025–2028** — Missão, visão, valores e objetivos estratégicos
+>
+> Esta wiki **não substitui** os documentos oficiais. Veja a [Base Normativa](/base-normativa).

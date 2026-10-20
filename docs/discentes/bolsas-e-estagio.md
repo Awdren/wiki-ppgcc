@@ -11,13 +11,17 @@ Há concessão de bolsas de mestrado e doutorado por meio de chamadas públicas 
 - **Fundect** — Fundação de Apoio ao Desenvolvimento do Ensino, Ciência e Tecnologia do Estado de Mato Grosso do Sul
 - Outros órgãos conforme editais específicos
 
+*As agências listadas são informação prática do Programa; as resoluções não as enumeram.*
+
 ::: info Quando são abertas as inscrições?
 Não há data definida para a concessão de bolsas. Os editais são divulgados na [página do PPGCC](https://www.facom.ufms.br/ppgcc/) e comunicados por e-mail aos estudantes.
 :::
 
 ### Concessão
 
-As bolsas de órgãos de fomento são distribuídas pela **Comissão de Bolsas** (função exercida pelo Colegiado de Curso), conforme critérios definidos em resolução específica do Colegiado, priorizando o **mérito acadêmico** do estudante.
+As bolsas de órgãos de fomento são distribuídas aos estudantes regulares pela **Comissão de Bolsas** (função exercida pelo Colegiado de Curso), conforme critérios definidos em resolução específica do Colegiado (arts. 51 e 52 da Res. nº 1.212/2026). A concessão ou renovação deve priorizar o **mérito acadêmico** do estudante (art. 65, parágrafo único, da Res. nº 1.035/2025).
+
+A Comissão de Bolsas também zela pelo desempenho acadêmico dos bolsistas e decide as demais questões de concessão, manutenção e gestão das bolsas (art. 53 da Res. nº 1.212/2026).
 
 ### Renovação
 
@@ -39,7 +43,9 @@ O desenvolvimento de **atividade profissional remunerada** por estudante bolsist
 
 ### Para quem é obrigatório
 
-O estágio docência é **obrigatório para estudantes bolsistas** do mestrado e doutorado acadêmicos.
+O estágio docência é **obrigatório para estudantes bolsistas** do mestrado e doutorado acadêmicos (art. 82, § 1º, da Res. nº 1.035/2025; art. 22, § 4º, da Res. nº 1.212/2026).
+
+No PPGCC, o estágio é uma CCND com créditos: o bolsista de mestrado cursa **Estágio I** (2 créditos) e o de doutorado, **Estágio I e Estágio II** (2 créditos cada) (arts. 23 e 24 da Res. nº 1.212/2026). O estágio pode envolver encargos acadêmicos ou atividades compatíveis com a área de pesquisa do estudante, sob supervisão do orientador.
 
 ::: info Dispensa
 Bolsistas que já exercem atividades de docência no ensino superior podem ser **dispensados** pelo Colegiado de Curso.

@@ -2,7 +2,7 @@
 
 ## Obrigatoriedade
 
-A comprovação de **proficiência em língua inglesa é obrigatória** para todos os estudantes dos cursos de Mestrado e Doutorado. Para os cursos de Pós-Graduação da Facom, **somente o inglês é aceito**.
+A comprovação de **proficiência em língua inglesa é obrigatória** para todos os estudantes dos cursos de Mestrado e Doutorado do PPGCC (art. 26 da Res. nº 1.212/2026). A língua estrangeira exigida pelo Programa é o **inglês**.
 
 ## Prazos
 
@@ -11,13 +11,23 @@ A comprovação de **proficiência em língua inglesa é obrigatória** para tod
 | **Mestrado** | Até o fim do **4º semestre** |
 | **Doutorado** | Até o fim do **6º semestre** |
 
+A comprovação é apresentada ao **Colegiado de Curso** (art. 60, parágrafo único, da Res. nº 1.035/2025).
+
 ::: warning Impacto na defesa
-A comprovação de proficiência é um dos **requisitos obrigatórios para o agendamento da defesa** de dissertação ou tese. Não é possível agendar a defesa sem esse comprovante.
+A comprovação de proficiência é um dos **requisitos obrigatórios para o agendamento da defesa** de dissertação ou tese (arts. 46, § 5º, III, e 47, § 4º, III, da Res. nº 1.212/2026). Não é possível agendar a defesa sem esse comprovante.
+:::
+
+::: danger Perder o prazo
+O Regulamento do Programa prevê desligamento de quem não cumprir exigências nos prazos estabelecidos (art. 36, III, da Res. nº 1.212/2026). Não deixe a proficiência para o último semestre.
 :::
 
 ---
 
 ## Como é realizado o exame
+
+::: info Procedimento definido em edital
+As informações desta seção e da próxima (formas de prova, nota mínima e dispensa) vêm dos **editais** de seleção e de prova de línguas, e não das resoluções do Programa. Confira sempre o edital vigente.
+:::
 
 O exame pode ser feito:
 

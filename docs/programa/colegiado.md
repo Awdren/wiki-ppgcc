@@ -4,7 +4,7 @@
 
 | Instância | Natureza | Quem é |
 |---|---|---|
-| **Coordenador de Curso** | Executiva | Professor da Carreira de Magistério Superior (Doutor), eleito pelos professores permanentes e estudantes, designado por Portaria do Reitor |
+| **Coordenador de Curso** | Executiva | Professor da Carreira de Magistério Superior da UFMS, com título de Doutor e membro do Colegiado, eleito pelos professores permanentes e pelos estudantes, designado por Portaria do Reitor (art. 22 da Res. nº 1.035/2025) |
 | **Colegiado de Curso** | Deliberativa | Composto conforme o Regimento Geral da UFMS |
 
 > Os cursos vinculados ao mesmo Programa têm o **mesmo Coordenador e Colegiado**.
@@ -50,6 +50,13 @@ O Colegiado é o principal órgão deliberativo do Programa. Suas atribuições 
 - Exercer a função de **Comissão de Bolsas**
 - Estabelecer critérios objetivos para concessão de bolsas
 - Acompanhar o desempenho dos bolsistas
+
+**Outras:**
+- Deliberar sobre recursos administrativos de professores e estudantes, no âmbito de sua competência
+- Propor e avaliar medidas de integração da pós-graduação com a graduação, a educação básica e a sociedade
+- Resolver os **casos omissos** no Regulamento do Programa, no âmbito de sua competência (art. 54 da Res. nº 1.212/2026)
+
+*Base: art. 23 da Res. nº 1.035/2025, além das atribuições do Regimento Geral da UFMS.*
 
 ---
 

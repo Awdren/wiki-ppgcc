@@ -1,13 +1,13 @@
 # Catálogo de Disciplinas
 
-> Baseado na **Resolução nº 1.134-COPP/UFMS**, de 10/02/2026 (Estrutura Curricular vigente).  
-> Consulte também o [documento oficial da Estrutura Curricular (PDF)](https://www.facom.ufms.br/wp-content/uploads/2026/02/Estrutura-Curricular-PPGCC-ATUAL-2026-RESOLUCAO-COPP-n-1134-de-10-02-2026.pdf).
+> Baseado na **Resolução nº 1.295-COPP/UFMS, de 17/07/2026**, que alterou a Estrutura Curricular e as ementas dos cursos **a contar de 1º/01/2026**. A lista de componentes e as ementas abaixo foram conferidas com os Anexos I e II dessa resolução.  
+> Versões anteriores desta página citavam a [Res. nº 1.134-COPP/UFMS, de 10/02/2026 (PDF)](https://www.facom.ufms.br/wp-content/uploads/2026/02/Estrutura-Curricular-PPGCC-ATUAL-2026-RESOLUCAO-COPP-n-1134-de-10-02-2026.pdf), que não foi analisada nesta revisão.
 
 ---
 
 ## Componentes Curriculares Não Disciplinares (CCNDs)
 
-As CCNDs são obrigatórias conforme o nível e a área de concentração do estudante. As marcadas com "–" nos créditos são marcos avaliativos sem pontuação de créditos.
+As CCNDs são obrigatórias conforme o nível do curso, a área de formação do Estudo Dirigido e, no caso do Estágio, a condição de bolsista. As marcadas com "—" nos créditos são marcos avaliativos sem pontuação de créditos.
 
 | Componente | Área | Nível | CH | Créditos |
 |---|---|---|---|---|
@@ -24,16 +24,16 @@ As CCNDs são obrigatórias conforme o nível e a área de concentração do est
 | Elaboração de Defesa de Tese | Todas | D | — | — |
 
 ::: info Estudos Dirigidos
-Cada estudante cursa o **Estudo Dirigido da sua área de concentração**. No mestrado: 1 Estudo Dirigido (4cr). No doutorado: 2 Estudos Dirigidos — o básico e o II (8cr total). A atividade é orientada pelo professor responsável e tem conteúdo definido conforme a linha de pesquisa do estudante.
+No mestrado: 1 Estudo Dirigido (4cr). No doutorado: 2 Estudos Dirigidos — o básico e o II (8cr total). A área é cursada "dependendo da área de formação" (arts. 23 e 24 da Res. nº 1.212/2026); o Regulamento não detalha a escolha da área nem quem define o conteúdo. Veja [Estrutura Curricular](./estrutura-curricular#estudos-dirigidos-ccnds-de-credito).
 :::
 
 ::: tip Registro das CCNDs
-CCNDs não exigem matrícula, registro de notas ou frequência: registra-se o **início da atividade** e encaminham-se os **documentos comprobatórios**. Veja como funciona no SISCAD em [CCNDs no SISCAD](./ccnd-siscad).
+Segundo a orientação da PROPP, as CCNDs não exigem matrícula, registro de notas ou frequência: registra-se o **início da atividade** e encaminham-se os **documentos comprobatórios**. O Estágio de Docência tem regras próprias de requerimento e registro no histórico (art. 83, §§ 4º e 9º, da Res. nº 1.035/2025). Veja [CCNDs no SISCAD](./ccnd-siscad).
 :::
 
 ---
 
-## Disciplinas Optativas — Metodologia e Técnicas da Computação (MTC)
+## Disciplinas Optativas — Métodos e Técnicas da Computação (MTC)
 
 ### Aprendizado de Máquina
 **Nível:** M/D | **Carga Horária:** 60h | **Créditos:** 4

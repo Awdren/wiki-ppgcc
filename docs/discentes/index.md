@@ -6,8 +6,10 @@ Bem-vindo à seção dedicada aos estudantes do PPGCC. Aqui você encontra as pr
 
 | Tema | O que você vai encontrar |
 |---|---|
-| [Admissão e Matrícula](./admissao-matricula) | Como ingressar, tipos de estudante, responsabilidades |
+| [Admissão e Matrícula](./admissao-matricula) | Como ingressar, tipos de estudante, Trilha Graduação-Mestrado, renovação, convalidação |
 | [Estrutura Curricular](./estrutura-curricular) | Créditos exigidos, áreas de formação, componentes |
+| [Catálogo de Disciplinas](./disciplinas) | Componentes e ementas da estrutura vigente |
+| [Planejamento de Créditos](./planejamento-creditos) | Cenários de créditos e cronograma sugerido por semestre |
 | [Prazos e Desempenho](./prazos-e-desempenho) | Duração do curso, conceitos, frequência, prorrogação |
 | [Proficiência em Inglês](./proficiencia) | Obrigatoriedade e prazos por nível |
 | [Exame de Qualificação](./qualificacao) | Pré-requisitos, prazos, composição de banca |
@@ -16,25 +18,30 @@ Bem-vindo à seção dedicada aos estudantes do PPGCC. Aqui você encontra as pr
 | [Bolsas e Estágio Docência](./bolsas-e-estagio) | Concessão de bolsas, obrigações do bolsista |
 | [Requerimentos](./requerimentos) | O que você pode solicitar formalmente |
 | [Desligamento](./desligamento) | Causas de desligamento e possibilidade de reingresso |
+| [Qualis Periódicos](./qualis-periodicos) e [Qualis Eventos](./qualis-eventos) | Consulta de estratos Qualis (apoio, não critério oficial de defesa) |
 
 ## Resumo rápido: o que todo estudante precisa saber
 
 ### Mestrado
 
-- **Duração:** até 24 meses (prorrogável por mais 6 meses)
-- **Créditos mínimos:** 16 créditos
+- **Duração:** até 24 meses (prorrogação excepcional de até 6 meses, só para quem já qualificou)
+- **Créditos mínimos:** 16 créditos (18 para bolsistas, com Estágio I)
 - **Qualificação:** até o 12º mês; pré-req: 75% dos créditos
 - **Proficiência inglês:** até o fim do 4º semestre
-- **Para defender:** qualificação aprovada + créditos integrais + proficiência + 1 artigo submetido
+- **Para defender:** qualificação aprovada + créditos integrais + proficiência + 1 artigo **submetido** em periódico ou conferência qualificados
 
 ### Doutorado
 
-- **Duração:** até 48 meses (prorrogável por mais 12 meses)
-- **Créditos mínimos:** 24 créditos
+- **Duração:** até 48 meses (prorrogação excepcional de até 12 meses, só para quem já qualificou)
+- **Créditos mínimos:** 24 créditos (28 para bolsistas, com Estágios I e II)
 - **Qualificação:** até o 24º mês; pré-req: 60% dos créditos
 - **Proficiência inglês:** até o fim do 6º semestre
-- **Para defender:** qualificação aprovada + créditos integrais + proficiência + 1 artigo publicado/aceito
+- **Para defender:** qualificação aprovada + créditos integrais + proficiência + 1 artigo **publicado ou aceito** em periódico qualificado
+
+::: danger Prazos perdidos podem gerar desligamento
+Não qualificar ou não defender no prazo, não renovar a matrícula sem justificativa e não cumprir exigências nos prazos são causas de desligamento. Veja [Desligamento](./desligamento).
+:::
 
 ::: tip Fonte normativa
-Todo conteúdo é baseado na **Resolução nº 1.212-COPP/UFMS (06/05/2026)** e na **Resolução nº 1.035-COPP/UFMS (23/06/2025)**.
+O conteúdo é baseado nas resoluções listadas em [Base Normativa](../base-normativa). Esta wiki é um material de apoio e **não substitui** os documentos oficiais.
 :::

@@ -4,21 +4,23 @@
 
 | Referência | Limite |
 |---|---|
-| **Mediana esperada** | 4 orientações simultâneas |
-| **Máximo regular** | 8 orientações simultâneas |
-| **Máximo excepcional** | até 12 estudantes (por deliberação do Colegiado) |
+| **Referência (mediana)** | 4 orientações em andamento |
+| **Máximo** | 8 orientações em andamento |
+| **Máximo excepcional** | até 12 estudantes |
+
+*Base: art. 7º, §§ 1º e 2º, da Res. nº 1.212/2026. A norma geral admite ultrapassar temporariamente o limite, em caráter excepcional, com aprovação do Colegiado de Curso (art. 27, parágrafo único, da Res. nº 1.035/2025).*
 
 ---
 
 ## Critérios de designação do orientador
 
-A distribuição de estudantes por orientador segue, nesta ordem:
+A distribuição de estudantes por orientador segue as normas da Capes e observa os seguintes aspectos, sem ordem de prioridade definida (art. 7º da Res. nº 1.212/2026):
 
-1. **Manifestação do orientador** pretendido
-2. **Equilíbrio na distribuição** e respeito ao limite de orientações em andamento
-3. **Proximidade temática** entre o objeto de estudo, base epistemológica e interesse de pesquisa do estudante e dos orientadores
+- **Manifestação do orientador** pretendido
+- **Equilíbrio na distribuição** e respeito ao limite de orientações em andamento
+- **Proximidade temática** entre o objeto de estudo, base epistemológica e interesse de pesquisa do estudante e dos orientadores
 
-Quando esses critérios não forem suficientes, o Colegiado considera adicionalmente:
+Quando esses critérios não forem suficientes, o Colegiado considera, **nesta sequência** (art. 8º):
 
 1. Distribuição equilibrada das orientações **entre as linhas de pesquisa** do Programa
 2. Orientador com **menor número de PPGs** nos quais está credenciado
@@ -38,6 +40,9 @@ O orientador é responsável por:
 - **Avaliar e anuir** os requerimentos acadêmicos dos estudantes
 - Pleitear, se necessário, **fontes de financiamento** para execução das atividades
 - Comunicar à Coordenação eventual **abandono de curso** pelo estudante
+- Exercer outras atividades definidas no Regulamento do Programa
+
+*Base: art. 15 da Res. nº 1.035/2025.* Pelo Regulamento do PPGCC, o orientador também **requer ao Colegiado a constituição das bancas** de defesa (arts. 46 e 47) e **encaminha via SEI** a solicitação do Exame de Qualificação (art. 44). A renovação semestral de matrícula, a prorrogação de prazo e a matrícula em disciplinas de outros cursos dependem da **anuência do orientador**.
 
 ### No SISCAD: CCND do trabalho final
 

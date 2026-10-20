@@ -21,7 +21,7 @@ Todo candidato ao credenciamento deve:
 
 ## Como ocorre o credenciamento
 
-O credenciamento de professores permanentes e colaboradores ocorre **exclusivamente por meio de Edital público**, ampliamente divulgado na UFMS.
+O credenciamento de professores permanentes e colaboradores ocorre **exclusivamente por meio de Edital público** da Propp, com ampla divulgação na UFMS (art. 12 da Res. nº 1.212/2026; art. 10, § 1º, da Res. nº 1.035/2025). As alterações no Corpo Docente são apreciadas pelo Colegiado de Curso e aprovadas pelo Conselho da Unidade, com anuência da Propp (art. 11 da Res. nº 1.035/2025).
 
 Os critérios utilizados nos editais são quantificáveis e consideram:
 - As necessidades dos Cursos
