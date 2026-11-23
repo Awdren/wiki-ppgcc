@@ -7,6 +7,7 @@ Bem-vindo à seção dedicada aos estudantes do PPGCC. Aqui você encontra as pr
 | Tema | O que você vai encontrar |
 |---|---|
 | [Admissão e Matrícula](./admissao-matricula) | Como ingressar, tipos de estudante, Trilha Graduação-Mestrado, renovação, convalidação |
+| [Processo Seletivo (PSU)](./psu) | Tabela de Pontuação: regras gerais e dúvidas frequentes |
 | [Estrutura Curricular](./estrutura-curricular) | Créditos exigidos, áreas de formação, componentes |
 | [Catálogo de Disciplinas](./disciplinas) | Componentes e ementas da estrutura vigente |
 | [Planejamento de Créditos](./planejamento-creditos) | Cenários de créditos e cronograma sugerido por semestre |
@@ -16,6 +17,7 @@ Bem-vindo à seção dedicada aos estudantes do PPGCC. Aqui você encontra as pr
 | [Defesa de Dissertação ou Tese](./defesa) | Formatos aceitos, requisitos, banca, procedimentos |
 | [CCNDs no SISCAD](./ccnd-siscad) | Registro da CCND do trabalho final, passo a passo e fluxos |
 | [Bolsas e Estágio Docência](./bolsas-e-estagio) | Concessão de bolsas, obrigações do bolsista |
+| [PROAP — Auxílio para Eventos](./proap) | Passagens e taxa de inscrição: documentos e prazos |
 | [Requerimentos](./requerimentos) | O que você pode solicitar formalmente |
 | [Desligamento](./desligamento) | Causas de desligamento e possibilidade de reingresso |
 | [Qualis Periódicos](./qualis-periodicos) e [Qualis Eventos](./qualis-eventos) | Consulta de estratos Qualis (apoio, não critério oficial de defesa) |

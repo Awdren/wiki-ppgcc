@@ -2,6 +2,16 @@
 
 > Baseado nas **Orientações sobre CCND** e no **Tutorial CCND — Elaboração e Defesa de Dissertação, Tese ou Trabalho Final de Curso (TFC)**, da SEAAR/DIPOS/PROPP, e na **Resolução nº 1.035/2025-COPP/UFMS**.
 
+::: tip O que mudou com o SISCAD
+O trabalho final (dissertação ou tese) agora é acompanhado **dentro do SISCAD**, numa CCND própria, do início da escrita até a versão final:
+
+- **Estudante:** registra o início da CCND quando começa a escrever e, **após a defesa**, envia a versão final pelo sistema.
+- **Orientador:** valida a CCND, **cadastra a banca** no agendamento da defesa e aprova (ou pede ajustes na) versão final.
+- **Coordenador:** dá ciência no início e faz a avaliação final, que arquiva a CCND.
+
+O passo a passo de cada papel está abaixo. Os tutoriais com as telas estão na página [SISCAD — Orientações e Procedimentos](https://propp.ufms.br/diretorias/siscad-orientacoes-e-procedimentos/) da Propp.
+:::
+
 ## O que são as CCNDs
 
 Os **Componentes Curriculares Não Disciplinares (CCNDs)** são atividades da pós-graduação que não são disciplinas. Segundo a Res. nº 1.035/2025-COPP, elas são desenvolvidas sob a forma de:
@@ -110,6 +120,10 @@ No período de agendamento da defesa, o orientador abre **Cadastrar banca** e cl
 3. Indique se ele atuará como **presidente**, **suplente** ou **coorientador**.
 4. Clique em **Salvar**. O membro passa a aparecer na listagem da banca.
 
+::: warning Membro externo que não aparece na pesquisa
+Docentes externos precisam estar cadastrados no sistema antes. O cadastro é feito pela **Secretaria do Programa**; o orientador envia os dados do membro. Veja a lista de dados em [Bancas Examinadoras](../docentes/bancas#cadastro-de-membros-externos-no-siscad).
+:::
+
 As regras de composição da banca estão em [Defesa de Dissertação ou Tese](./defesa#composicao-da-banca-examinadora) e em [Bancas Examinadoras](../docentes/bancas).
 
 ---
@@ -172,5 +186,5 @@ O coordenador recebe a CCND aprovada pelo orientador e pode consultar os dados e
 
 ## Dúvidas
 
-- Tutorial com as telas do sistema: aba **Tutoriais para registro de CCND** na página **SISCAD Mestrado e Doutorado** do [Portal de Orientações e Procedimentos da Propp](https://propp.ufms.br/).
+- Tutoriais com as telas do sistema: página [SISCAD — Orientações e Procedimentos](https://propp.ufms.br/diretorias/siscad-orientacoes-e-procedimentos/), da Propp.
 - **SEAAR/DIPOS/PROPP** (Secretaria de Avaliação, Acompanhamento e Regulação) — ramais **7198** e **3977**, e-mail [seaar.propp@ufms.br](mailto:seaar.propp@ufms.br).

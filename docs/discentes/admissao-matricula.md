@@ -8,6 +8,8 @@ A forma principal de ingresso como estudante regular é o **Processo Seletivo Un
 - Na página da [Propp](https://www.propp.ufms.br)
 - Na página do [PPGCC](https://www.facom.ufms.br/ppgcc/)
 
+Dúvidas sobre a **Tabela de Pontuação** estão em [Processo Seletivo (PSU)](./psu).
+
 ::: info Datas do Processo Seletivo
 *Informação prática, não prevista nas resoluções:* não há datas fixas — o edital costuma ser lançado uma vez ao ano, e pode haver, geralmente em junho, um edital complementar para vagas remanescentes. Acompanhe pelos canais acima.
 :::

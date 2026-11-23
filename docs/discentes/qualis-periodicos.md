@@ -30,6 +30,10 @@ O artigo exigido para a defesa deve estar em veículo **qualificado na área de 
 
 ## Consultas adicionais
 
+::: tip Processo seletivo (PSU)
+A Tabela de Pontuação do PSU usa o **Qualis 2021–2024**, definido pelo edital. Para pontuar publicações na seleção, consulte o quadriênio anterior, conforme o passo a passo abaixo. Veja [Processo Seletivo (PSU)](./psu).
+:::
+
 Para periódicos do quadriênio anterior, consulte também o sistema **Sucupira Legado (2021–2024)**:
 
 1. Acesse: [sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/veiculoPublicacaoQualis/listaConsultaGeralPeriodicos.jsf](https://sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/veiculoPublicacaoQualis/listaConsultaGeralPeriodicos.jsf)

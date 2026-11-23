@@ -78,6 +78,23 @@ Nos casos de inovação tecnológica, potencial de proteção intelectual ou de 
 No período de agendamento da defesa, o orientador também **cadastra a banca na CCND do trabalho final** do estudante no SISCAD (**Lista de CCNDs – Pós-Graduação → Cadastrar banca → Novo Docente**). Para cada membro, informe se é docente da UFMS ou externo e se atua como **presidente**, **suplente** ou **coorientador**. O envio da versão final pelo estudante só é liberado depois desse cadastro. Veja [CCNDs no SISCAD](../discentes/ccnd-siscad#orientador-cadastrar-a-banca).
 :::
 
+### Cadastro de membros externos no SISCAD
+
+Membros externos à UFMS só aparecem na pesquisa do SISCAD depois de cadastrados. Esse cadastro é feito pela **Secretaria do Programa**. Para incluir um membro externo, o **orientador** deve enviar à Secretaria os dados abaixo.
+
+| Docente brasileiro | Docente estrangeiro |
+|---|---|
+| CPF | Número do passaporte |
+| Nome completo | Nome completo |
+| Data de nascimento | Data de nascimento |
+| Tipo de docente externo | Tipo de docente externo |
+| Nacionalidade | Nacionalidade |
+| Instituição atual | Instituição atual |
+| Sigla da instituição atual | Sigla da instituição atual |
+| E-mail | E-mail |
+
+*Procedimento administrativo da Secretaria do Programa.*
+
 ---
 
 ## Resultados possíveis (defesa)

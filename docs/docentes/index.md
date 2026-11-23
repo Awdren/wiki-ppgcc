@@ -11,6 +11,7 @@ Bem-vindo à seção dedicada aos professores do PPGCC. Aqui você encontra, de 
 | [Orientação e Coorientação](./orientacao) | Limites, critérios de designação, troca de orientador |
 | [Bancas Examinadoras](./bancas) | Composição e impedimentos para qualificação e defesa |
 | [CCNDs no SISCAD](../discentes/ccnd-siscad) | Validação da CCND do trabalho final, cadastro da banca e avaliação da finalização |
+| [PROAP — Auxílio para Eventos](../discentes/proap) | Diárias, passagens e taxa de inscrição pelo SEI: documentos e prazos |
 
 ## Categorias docentes no Programa
 

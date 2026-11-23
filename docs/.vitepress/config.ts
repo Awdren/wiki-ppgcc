@@ -24,6 +24,7 @@ export default defineConfig({
           items: [
             { text: 'Visão Geral', link: '/discentes/' },
             { text: 'Admissão e Matrícula', link: '/discentes/admissao-matricula' },
+            { text: 'Processo Seletivo (PSU)', link: '/discentes/psu' },
             { text: 'Estrutura Curricular', link: '/discentes/estrutura-curricular' },
             { text: 'Catálogo de Disciplinas', link: '/discentes/disciplinas' },
             { text: 'Planejamento de Créditos', link: '/discentes/planejamento-creditos' },
@@ -33,6 +34,7 @@ export default defineConfig({
             { text: 'Defesa de Dissertação ou Tese', link: '/discentes/defesa' },
             { text: 'CCNDs no SISCAD', link: '/discentes/ccnd-siscad' },
             { text: 'Bolsas e Estágio Docência', link: '/discentes/bolsas-e-estagio' },
+            { text: 'PROAP — Auxílio para Eventos', link: '/discentes/proap' },
             { text: 'Requerimentos', link: '/discentes/requerimentos' },
             { text: 'Desligamento', link: '/discentes/desligamento' },
             { text: 'Qualis Eventos', link: '/discentes/qualis-eventos' },
@@ -50,6 +52,7 @@ export default defineConfig({
             { text: 'Orientação e Coorientação', link: '/docentes/orientacao' },
             { text: 'Bancas Examinadoras', link: '/docentes/bancas' },
             { text: 'CCNDs no SISCAD', link: '/discentes/ccnd-siscad' },
+            { text: 'PROAP — Auxílio para Eventos', link: '/discentes/proap' },
           ],
         },
       ],
